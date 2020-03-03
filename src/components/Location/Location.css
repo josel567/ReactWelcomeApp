@@ -1,0 +1,9 @@
+.location-wrapper {
+    display: flex;
+    color: white;
+    flex-basis: 500px;
+    height: 125px;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+}

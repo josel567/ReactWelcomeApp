@@ -1,0 +1,14 @@
+.current-temp-wrapper{
+    display: flex;
+    padding: 1em;
+    color: white;
+    flex-basis: 200px;
+    justify-content: center;
+    align-items: center;
+}
+
+.temp {
+    font-size: 6em;
+    display: block;
+    margin: 0;
+}
